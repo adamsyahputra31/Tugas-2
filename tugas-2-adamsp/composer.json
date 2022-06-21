@@ -1,0 +1,17 @@
+{
+    "name": "adamsyahputra31/tugas-2",
+    "description": "Tugas Ke-2 Pemograman Berbasis Web Lanjutan 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adam Syahputra",
+            "email": "adamsyahputra31052002@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
